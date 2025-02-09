@@ -32,8 +32,8 @@ The model evaluates well using MAE, MSE, RMSE, and R² Score.
 Predictions can be improved by adding more features & advanced models.<br>
 ---
 ## **👨‍💻 Author**<br>
-Rishin Aiyappa A G.
-Machine Learning Intern @ Prodigy InfoTech.
+Rishin Aiyappa A G.<br>
+Machine Learning Intern @ Prodigy InfoTech.<br>
 LinkedIn Profile:www.linkedin.com/in/rishinaiyappaag
 
 
