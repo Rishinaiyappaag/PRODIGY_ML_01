@@ -29,7 +29,15 @@ The dataset comes from Kaggle’s **Ames Housing dataset** and includes various 
  ## **🏆 Conclusion**<br>
 This project trains a Linear Regression model for house price prediction.
 The model evaluates well using MAE, MSE, RMSE, and R² Score.
-Predictions can be improved by adding more features & advanced models.
+Predictions can be improved by adding more features & advanced models.<br>
+---
+##**👨‍💻 Author**
+Rishin Aiyappa A G
+Machine Learning Intern @ Prodigy InfoTech
+LinkedIn Profile:www.linkedin.com/in/
+rishinaiyappaag
+
+
 
 
 
