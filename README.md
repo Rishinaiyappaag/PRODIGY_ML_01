@@ -24,8 +24,8 @@ The dataset comes from Kaggle’s **Ames Housing dataset** and includes various 
 | `FullBath`    | Number of full bathrooms |
 
 **Target Variable:**  
-- `SalePrice` → The final price of the house.
-  🏆 Conclusion
+- `SalePrice` → The final price of the house.<br>
+  ##🏆 Conclusion
 This project trains a Linear Regression model for house price prediction.
 The model evaluates well using MAE, MSE, RMSE, and R² Score.
 Predictions can be improved by adding more features & advanced models.
